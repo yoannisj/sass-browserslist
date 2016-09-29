@@ -1,0 +1,28 @@
+{
+  "name": "sass-browserslist",
+  "version": "0.1.0",
+  "description": "Use browserslist in your Libsass/node-sass modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoannisj/sass-browserslist.git"
+  },
+  "keywords": [
+    "Libsass",
+    "node-sass",
+    "browserslist",
+    "support-for"
+  ],
+  "author": "Yoannis Jamar <yoannis.j@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoannisj/sass-browserslist/issues"
+  },
+  "homepage": "https://github.com/yoannisj/sass-browserslist#readme",
+  "dependencies": {
+    "browserslist": "ai/browserslist"
+  }
+}
